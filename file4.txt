@@ -1,1 +1,3 @@
 file 4
+this is main file 4
+this is modified to resolve merge conflicts
