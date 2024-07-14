@@ -1,2 +1,2 @@
-this is file 7 unchanged
+this is file 7 unchanged this is awesome
 updated a new line in file 7
